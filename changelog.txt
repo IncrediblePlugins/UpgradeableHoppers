@@ -1,1 +1,1 @@
-+ Added: [Suggestion] Expand suction visualization to all y levels
++ Changed: Reverted latest visualization change since previous was better
