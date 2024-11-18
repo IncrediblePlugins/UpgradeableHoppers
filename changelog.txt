@@ -1,1 +1,1 @@
-+ Changed: Reverted latest visualization change since previous was better
+- Fixed: Link inventory loading triggered multiple times in some cases leading to higher performance impact

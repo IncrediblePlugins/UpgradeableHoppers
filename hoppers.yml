@@ -4,7 +4,7 @@
 # then just remove all radius levels for this type, except the first level.
 #
 # NOTE: This file can't be reloaded by /hoppers reload.
-# Default file: https://upgradeablehoppers.incredibleplugins.com/blob/master/src/main/resources/hoppers.yml
+# Default file: https://github.com/IncrediblePlugins/UpgradeableHoppers/blob/master/hoppers.yml
 
 hoppers:
   normal:

@@ -222,7 +222,7 @@ integration:
 
   # If you use any 3rd party plugin for item stacking, please enable it here to make sure UpradeableHoppers can read the correct item stack amount.
   # Currently supported: WildStacker, RoseStacker, zItemStacker
-  # Yours isn't listed? 3rd party developers can integrate their ItemStacker via this method: https://github.com/IncrediblePlugins/UpgradeableHoppersAPI/blob/25dc754a635908de161685d0fa0f9795d2f65bab/src/main/java/me/angeschossen/upgradeablehoppers/api/UpgradeableHoppersAPI.java#L28
+  # Yours isn't listed? 3rd party developers can integrate their ItemStacker via this method: https://wiki.incredibleplugins.com/upradeablehoppers/developers/itemstacker
   item-stacker: 'default'
   # Economy settings
   # If all types are disabled, the item based economy will be used instead.
