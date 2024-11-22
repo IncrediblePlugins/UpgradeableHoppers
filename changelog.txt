@@ -1,1 +1,2 @@
-- Fixed: Filter item delete option with stacker plugin
+- Fixed: Item delete feature if suction disabled
+- Fixed: List entry removal in GUI if placeholders disabled
