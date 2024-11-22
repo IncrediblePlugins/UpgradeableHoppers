@@ -1,1 +1,1 @@
-- Fixed: Link inventory loading triggered multiple times in some cases leading to higher performance impact
+- Fixed: Filter item delete option with stacker plugin
