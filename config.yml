@@ -57,19 +57,16 @@ general:
 database:
   # MySQL
   mysql:
-    # Enable this to use MySQL instead of "file based"
-    # SQLite. For performance improvement it's recommended to
-    # use MySQL. If you don't have access to a MySQL server,
-    # just let this disabled (false).
+    # Enable this to use MySQL instead of "file based" SQLite. For performance improvements it's recommended to
+    # use MySQL. If you don't have access to a MySQL server, just let this disabled (false).
     enabled: false
-    ip-address: 'localhost'
+    address: 'localhost'
     port: '3306'
     database: 'upgradeablehoppers'
-    # It is highly recommended to set a unique table prefix if the plugin shares a database with other plugins.
-    table-prefix: 'hoppers'
-    user: 'minecraft'
+    username: 'minecraft'
     password: 'password'
-
+    # It is highly recommended to set a unique table prefix if the plugin shares a database with other plugins.
+    table-prefix: 'hoppers_'
 
 command:
   # Should players need to confirm their purchase at /Hopper get?
