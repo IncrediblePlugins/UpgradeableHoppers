@@ -35,7 +35,7 @@ hoppers:
     linktypes: 'ALL'
     # Should dropped items be directly inserted into a hopper of this type, if it is within range and has space?
     direct-suction: false
-    # You can specify a required permission here.
+    # You can specify a required permission here. Players without this permission won't be able to get the hopper type at /hoppers get
     # No required permission set as default.
     permission: ''
 
@@ -131,7 +131,7 @@ hoppers:
     linktypes: 'ALL'
     # Should dropped items be directly inserted into a hopper of this type, if it is within range and has space?
     direct-suction: false
-    # You can specify a required permission here.
+    # You can specify a required permission here. Players without this permission won't be able to get the hopper type at /hoppers get
     # No required permission set as default.
     permission: ''
 
