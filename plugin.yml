@@ -42,8 +42,6 @@ permissions:
         description: Give players permission to create specific amount of hoppers.
       uhoppers.links.<number>:
         description: Give players permission to link specific amount of containers per hopper.
-      uhoppers.teleportation:
-        description: Allow teleportation to a hopper through /Hopper list
       uhoppers.command.*:
         description: Access to all commands.
         children:
