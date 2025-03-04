@@ -1,1 +1,1 @@
-- Fixed: Hopper deletion item drop
+- Fixed: migration sql

@@ -52,6 +52,9 @@ general:
   #          If disabled: This will result in a limit of 5 hoppers.
   permission-stacking: false
 
+  # The plugin fetches player skins and names from Mojang.
+  # If disabled, player skins can't be displayed in the menus and name changes will only apply, when they join the server.
+  fetch-skins-names: true
   
 # Database settings
 database:
