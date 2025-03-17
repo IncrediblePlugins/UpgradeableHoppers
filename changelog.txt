@@ -1,1 +1,1 @@
-- Fixed: migration sql
+- Fixed: Hopper item config in hoppers.yml
