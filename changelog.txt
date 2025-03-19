@@ -1,3 +1,2 @@
-- Fixed: Bedrock client error
-- Fixed: API delete param for addItem method
-- Fixed: Error with particle on 1.20.x
++ Added: player-cache option to disable player cache file
+- Fixed: Missing message: menu-reopen
