@@ -1,2 +1,1 @@
-+ Added: player-cache option to disable player cache file
-- Fixed: Missing message: menu-reopen
+- Fixed: Particle error
