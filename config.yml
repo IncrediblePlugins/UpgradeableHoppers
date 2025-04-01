@@ -212,6 +212,10 @@ protection:
 
 # 3rd party plugin integrations
 integration:
+  # If enabled, the plugin calls the HopperItemPickupEvent for 3rd party plugins to listen to.
+  # That way they can for example cancel the hopper picking up items from an untrusted region.
+  call-item-pickup-event: false
+
   # Lands (https://www.spigotmc.org/resources/53313), SuperiorSkyblock2, IridiumSkyblock, BentoBox
   lands:
     # Should players be allowed to place hoppers only in claimed areas?
