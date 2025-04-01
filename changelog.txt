@@ -1,1 +1,2 @@
 + Added: API HopperItemPickupEvent, HopperUpgradeEvent
+Info: https://wiki.incredibleplugins.com/upradeablehoppers/developers/api#preventing-item-pickup
