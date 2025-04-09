@@ -1,2 +1,1 @@
-+ Added: API HopperItemPickupEvent, HopperUpgradeEvent
-Info: https://wiki.incredibleplugins.com/upradeablehoppers/developers/api#preventing-item-pickup
+- Fixed: Resign clump not added to upper slot in furnace
