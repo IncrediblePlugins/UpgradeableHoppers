@@ -1,1 +1,1 @@
-- Fixed: Resign clump not added to upper slot in furnace
++ Added: "hide-tooltip" and "tooltip-style" properties to GUI file. Read wiki for more info
