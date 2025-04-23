@@ -71,9 +71,6 @@ database:
     # It is highly recommended to set a unique table prefix if the plugin shares a database with other plugins.
     table-prefix: 'hoppers_'
 
-  # Save player names etc. to a file on shutdown to speed up name fetching on server startup.
-  # Otherwise, names must be fetched from the Mojang API.
-  player-cache: true
 
 command:
   # Should players need to confirm their purchase at /Hopper get?
