@@ -1,1 +1,1 @@
-+ Added: "hide-tooltip" and "tooltip-style" properties to GUI file. Read wiki for more info
++ Improved: playercache.json file saving no longer needed, active players names are saved to db
