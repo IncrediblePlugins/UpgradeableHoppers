@@ -1,1 +1,1 @@
-+ Improved: playercache.json file saving no longer needed, active players names are saved to db
+- Fixed: Redstone pause comparator break
