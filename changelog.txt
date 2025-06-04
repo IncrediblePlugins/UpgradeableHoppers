@@ -1,1 +1,1 @@
-- Fixed: Redstone pause comparator break
+- Fixed: Direct suction range check if item spawn loc higher than the highest block
