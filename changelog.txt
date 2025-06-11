@@ -1,1 +1,1 @@
-- Fixed: Direct suction range check if item spawn loc higher than the highest block
++ Added: API to push items to links: Hopper#pushItemsToLinks
