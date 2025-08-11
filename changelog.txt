@@ -1,1 +1,1 @@
-+ Added: API to push items to links: Hopper#pushItemsToLinks
+- Fixed: Insights plugin compatibility

@@ -117,7 +117,6 @@ hopper:
     - SUCTION_ENABLED
 
   # Teleport to hoppers in /Hopper list
-  # Permission uhoppers.teleport
   teleportation:
     # Set teleportation cost.
     cost_2: 200
