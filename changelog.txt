@@ -1,1 +1,1 @@
-- Fixed: Insights plugin compatibility
+- Fixed: Default sounds on newer versions

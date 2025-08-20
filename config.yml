@@ -191,8 +191,8 @@ sounds:
   # Sound which should be played whenever a player gets teleported by Lands.
   # Sounds can be disabled by setting their value to ''
   teleport:
-    teleported_sound: 'ENTITY_ENDERMAN_TELEPORT'
-    countdown_sound: 'BLOCK_LEVER_CLICK'
+    teleported_sound: 'entity.enderman.teleport'
+    countdown_sound: 'block.lever.click'
 
 # Protection settings
 protection:
