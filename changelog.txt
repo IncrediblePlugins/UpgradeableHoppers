@@ -1,1 +1,1 @@
-- Fixed: Default sounds on newer versions
++ Improved: Block type validation and fixed resulting error

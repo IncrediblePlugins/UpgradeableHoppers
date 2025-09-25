@@ -212,6 +212,10 @@ integration:
   # That way they can for example cancel the hopper picking up items from an untrusted region.
   call-item-pickup-event: false
 
+  # Should skins be fetched from the 3rd party plugin SkinsRestorer.
+  # This option requires the option "general.fetch-skins-names" to be enabled.
+  skins-restorer: false
+
   # Lands (https://www.spigotmc.org/resources/53313), SuperiorSkyblock2, IridiumSkyblock, BentoBox
   lands:
     # Should players be allowed to place hoppers only in claimed areas?
