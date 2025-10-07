@@ -113,8 +113,7 @@ hopper:
   # Set the default hopper settings
   # All settings can be found here:
   # https://github.com/IncrediblePlugins/UpgradeableHoppersAPI/blob/master/src/main/java/me/angeschossen/upgradeablehoppers/api/enums/HopperFlag.java
-  default-settings_list:
-    - SUCTION_ENABLED
+  default-settings_list: []
 
   # Teleport to hoppers in /Hopper list
   teleportation:

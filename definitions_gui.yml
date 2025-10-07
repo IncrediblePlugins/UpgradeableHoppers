@@ -59,7 +59,7 @@ gui:
         linking:
           material: skin:26e6696b63738bbcc5fd973709ea90997215b0cfeece20b2659cb7b35f1bf0
           slots: 29
-        toggle-suction:
+        suction-properties:
           material: skin:ec2ff244dfc9dd3a2cef63112e7502dc6367b0d02132950347b2b479a72366dd
           slots: 31
         filter-delete:

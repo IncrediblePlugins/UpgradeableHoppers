@@ -1,1 +1,3 @@
-+ Improved: Block type validation and fixed resulting error
+It is recommended that you take a backup of your database before updating.
+
++ Added: [Suggestion] Being able to lower the suction radius after upgrading it
