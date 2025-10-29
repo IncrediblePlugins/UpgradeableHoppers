@@ -1,3 +1,8 @@
-It is recommended that you take a backup of your database before updating.
-
-+ Added: [Suggestion] Being able to lower the suction radius after upgrading it
++ Added: [Suggestion] Being able to limit the duration of the visualizations
+visualization:
+  link:
+    # Set the maximum time the visualization will be displayed. Players can also disable an active visualization in the hopper menu.
+    duration_time: 5m
+  suction:
+    # Set the maximum time the visualization will be displayed. Players can also disable an active visualization in the hopper menu.
+    duration-2_time: 1m

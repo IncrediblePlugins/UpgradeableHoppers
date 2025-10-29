@@ -165,11 +165,16 @@ teleport:
   wait: 3
 
 
+visualization:
+  link:
+    # Set the maximum time the visualization will be displayed. Players can also disable an active visualization in the hopper menu.
+    link-duration_time: 5m
+  suction:
+    # Set the maximum time the visualization will be displayed. Players can also disable an active visualization in the hopper menu.
+    suction-duration_time: 1m
 
 # Link / destination settings
 link:
-  # Should destinations be visualized when clicking on the setup link item in the hopper menu?
-  visualization: true
   # Should whitelist mode be activated by default?
   whitelist: false
   # Should strict filtering be enabled by default?
