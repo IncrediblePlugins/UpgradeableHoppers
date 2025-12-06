@@ -1,8 +1,1 @@
-+ Added: [Suggestion] Being able to limit the duration of the visualizations
-visualization:
-  link:
-    # Set the maximum time the visualization will be displayed. Players can also disable an active visualization in the hopper menu.
-    duration_time: 5m
-  suction:
-    # Set the maximum time the visualization will be displayed. Players can also disable an active visualization in the hopper menu.
-    duration-2_time: 1m
++ Added: Save player head skins to the database to reduce amount of calls to Mojang API
