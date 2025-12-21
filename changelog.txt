@@ -1,1 +1,1 @@
-+ Added: Save player head skins to the database to reduce amount of calls to Mojang API
+- Fixed: Error on join with playerprofile on spigot
