@@ -90,9 +90,7 @@ command:
 
 # Hopper Settings
 hopper:
-  # Allow only the owner
-  # of the hopper item
-  # to place it down.
+  # Allow only the owner of the hopper item to place it down.
   only-owner: true
   # Item settings /Hopper get
   item:

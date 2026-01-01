@@ -1,1 +1,2 @@
-- Fixed: Error on join with playerprofile on spigot
++ Added: [Suggestion] You can now give hoppers without setting an owner to the item:
+/hopper admin give <player> <type> <amount> false
