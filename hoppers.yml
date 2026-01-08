@@ -25,8 +25,8 @@ hoppers:
     # Set the hopper transfer and suction tick time (20 ticks are one second)
     # You should only change this, if you know what you do.
     ticks:
-      transfer: 80
-      suction: 80
+      transfer: 40
+      suction: 40
     # Each line represents a line in the crafting table.
     # Each line must have three items. Each item must be seperated by a comma.
     recipe: []
@@ -129,8 +129,8 @@ hoppers:
     # Set the hopper transfer and suction tick time (20 ticks are one second)
     # You should only change this, if you know what you do.
     ticks:
-      transfer: 240
-      suction: 240
+      transfer: 120
+      suction: 120
     # Each line represents a line in the crafting table.
     # Each line must have three items. Each item must be seperated by a comma.
     recipe: []

@@ -1,2 +1,2 @@
-+ Added: [Suggestion] You can now give hoppers without setting an owner to the item:
-/hopper admin give <player> <type> <amount> false
+- Fixed: Error upon placement if Lands levels are disabled
+- Fixed: If copper chest changes state link was lost
