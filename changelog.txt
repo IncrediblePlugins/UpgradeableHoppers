@@ -1,2 +1,1 @@
-- Fixed: Error upon placement if Lands levels are disabled
-- Fixed: If copper chest changes state link was lost
+- Fixed: Not being able to rename link in links menu using right click
